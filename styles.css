@@ -1,0 +1,29 @@
+/* add your CSS here */
+
+.fact {
+    font-style: italic;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.card {
+    width: 300px;
+    box-shadow: 5px 5px lightgray;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+div {
+    border: 1px solid lightgray;
+    padding: 0 1em 1em 1em;
+}
+
+img {
+    width: 300px;
+    margin-bottom: 0.5em;
+}
